@@ -1,6 +1,6 @@
 # Country-Info
 
-RESTful API Integration
+Basic RESTful API Integration
 
 ## Instructions
 
